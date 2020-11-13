@@ -1,0 +1,1 @@
+.\64bit\redis-server.exe .\64bit\redis.conf 

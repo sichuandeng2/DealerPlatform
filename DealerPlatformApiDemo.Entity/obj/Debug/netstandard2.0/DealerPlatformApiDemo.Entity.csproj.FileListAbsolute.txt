@@ -1,0 +1,12 @@
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\bin\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.deps.json
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\bin\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.dll
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\bin\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.pdb
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\bin\Debug\netstandard2.0\DealerPlatformApiDemo.Core.dll
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\bin\Debug\netstandard2.0\DealerPlatformApiDemo.Core.pdb
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.csprojAssemblyReference.cache
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.AssemblyInfoInputs.cache
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.AssemblyInfo.cs
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.csproj.CoreCompileInputs.cache
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.csproj.CopyComplete
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.dll
+D:\C#\ProjectTeaching\vip_courseware\DealerPlatformApiDemo\DealerPlatformApiDemo.Entity\obj\Debug\netstandard2.0\DealerPlatformApiDemo.Entity.pdb

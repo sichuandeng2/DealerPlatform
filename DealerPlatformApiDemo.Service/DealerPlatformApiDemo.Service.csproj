@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath></OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <!--<PlatformTarget>x86</PlatformTarget>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DealerPlatformApiDemo.Common\DealerPlatformApiDemo.Common.csproj" />
+    <ProjectReference Include="..\DealerPlatformApiDemo.Entity\DealerPlatformApiDemo.Entity.csproj" />
+    <ProjectReference Include="..\DealerPlatformApiDemo.Core\DealerPlatformApiDemo.Core.csproj" />
+  </ItemGroup>
+
+</Project>
